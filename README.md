@@ -1,9 +1,11 @@
 Nombre del Repositorio:
-Repositorio: PasteleriaSales-LaravelApp
+Repositorio: Sistema_de_Ventas_Laravel
+
 
 Descripción:
 
-El repositorio "PasteleriaSales-LaravelApp" es un proyecto completo que abarca el desarrollo de una aplicación web de ventas enfocada en una pastelería. Este sistema ha sido construido con tecnologías clave como PHP, utilizando el framework Laravel, junto con JavaScript, HTML y CSS. El IDE principal utilizado para su desarrollo ha sido Visual Studio Code.
+El repositorio "Sistema_de_Ventas_Laravel
+" es un proyecto completo que abarca el desarrollo de una aplicación web de ventas enfocada en una pastelería. Este sistema ha sido construido con tecnologías clave como PHP, utilizando el framework Laravel, junto con JavaScript, HTML y CSS. El IDE principal utilizado para su desarrollo ha sido Visual Studio Code.
 
 Características Principales:
 
